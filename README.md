@@ -1,6 +1,6 @@
 # Project Summary
 
-This repository aims to compare the performances of multiple machine learning (ML) algorisms when the data distribution is highly imbalanced with one overwhelming response category. The dataset was randomly divided into two parts: training and test sets. Then, I will develop a statistical model out of the training set and apply it to the test set, recording down the misclassification errors. 
+This repository aims to compare the performances of multiple machine learning (ML) algorithms when the data distribution is highly imbalanced with one overwhelming response category. The dataset was randomly divided into two parts: training and test sets. Then, I will develop a statistical model out of the training set and apply it to the test set, recording down the misclassification errors. 
 
 Furthermore, I will use ROC and AUC to compare the performances and conclude KNN, as a non-parametrical method, outperforms the others when the distribution is highly imbalanced. 
 
@@ -16,14 +16,5 @@ This dataset is collected by a Portuguese banking institution to assess the effe
 
 ## About the Author
 
-Leihua Ye is a Ph.D. Researcher at the UC, Santa Barbara. He has received extensive training in Causal Inference, Research Design, Machine Learning, Big Data, and Machine Learning. 
-
-He receives his B.A. and M.A. from the Uni. of Nottingham. 
 
 ## Contact
-
-Email: yeleihua@gmail.com
-
-LinkedIn: www.linkedin.com/in/leihuaye
-
-Tech Blog: https://leihua-ye.medium.com
